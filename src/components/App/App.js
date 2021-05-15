@@ -7,7 +7,7 @@ import Movie from '../Movie/Movie';
 
 const App = () => {
    return (
-    <BrowserRouter basename="/ReactMovieDB">
+    <BrowserRouter basename="/Movies-app">
        <React.Fragment>
            <Header />
            <Switch>
